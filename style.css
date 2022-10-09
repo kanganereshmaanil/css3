@@ -1,0 +1,166 @@
+.box1{
+    position: relative;
+    left: 35%;
+    right: 50%;
+    width: 350px;
+    height: 100px;
+    color: brown;
+    border: 10px solid orangered;
+    border-radius: 20px;
+    text-align: center;
+     font-style: italic;
+     background-color: aliceblue;
+     box-shadow: 10px 10px purple;
+     margin: 10px;
+     padding: 10px;
+     text-shadow: 10px brown;
+}
+.box2{
+    border: 10px solid green;
+    height: 600px;
+    width: 1300px;
+    right: 25%;
+    background-color: skyblue;
+}
+.img{
+    width: 150px;
+    height: 100px;
+    border-color: black;
+}
+.b1{
+    width:150px;
+    height:150px;
+    background-color: aliceblue;
+    color:darkred ;
+    border: 10px solid red;
+    box-shadow: 10px 10px purple;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    
+
+}
+.b2{
+    width:150px;
+    height:150px;
+    background-color: aliceblue;
+    color:darkred ;
+    border: 10px solid red;
+    box-shadow: 10px 10px purple;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 800px;
+    
+
+}
+.b3{
+    width:150px;
+    height:150px;
+    background-color: aliceblue;
+    color:darkred ;
+    border: 10px solid red;
+    box-shadow: 10px 10px purple;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.b4{
+    width:200px;
+    height:200px;
+    background-color: aliceblue;
+    color:darkred ;
+    border: 10px solid red;
+    box-shadow: 10px 10px purple;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 800px;
+margin-top: 100px;
+    
+}
+.un1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.un2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box3{
+    position:relative ;
+    left: 15%;
+    right: 25%;
+    width: 900px;
+    height: 550px;
+    border: 10px solid brown;
+    color: black;
+    background-color: blueviolet;
+    margin: 10px;
+}
+.t1{
+    background-color: rgb(190, 190, 22);
+    font-style: italic;
+    width:400px ;
+    height:200px ;
+    text-align: center;
+    margin: 5px;
+}
+.t2{
+    background-color: rgb(196, 196, 20);
+    font-style: italic;
+    width: 400px;
+    height:200px ;
+    text-align: center;
+    margin: 5px;
+}
+.t3{
+    background-color: rgb(202, 202, 21);
+    font-style: italic;
+    width:900px ;
+    height:200px ;
+    text-align: center;
+    margin-top: 10px;
+}
+.mix{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 10px;
+}
+.my{
+    text-align: center;
+}
+.last{
+    width: 600px;
+    height: 80px;
+    position: fixed;
+    right: 75%;
+    left: 20%;
+    top: 80%;
+    box-shadow: 10px 10px purple; 
+    background-color:orange;
+    border: 10px solid red;
+    color: rgb(39, 1, 1);
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    font-style: italic;
+    margin:10px;
+    
+    
+}
+body{
+    background-color: pink;
+}
+.l1{
+    width: 200px;
+text-align: center;
+margin: 10px;
+p
+}
